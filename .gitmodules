@@ -1,0 +1,3 @@
+[submodule "third_party/openriglogic"]
+	path = third_party/openriglogic
+	url = https://github.com/EpicGames/openriglogic.git

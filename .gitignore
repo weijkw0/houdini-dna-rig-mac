@@ -1,0 +1,9 @@
+build/
+dist/
+vendor/
+private/
+SCOREBOARD.md
+tests/expect_*.json
+*.o
+*.dylib
+.DS_Store
